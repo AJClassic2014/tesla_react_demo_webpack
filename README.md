@@ -3,6 +3,9 @@
     <h3 align="center">Tesla Range Calculator Single Page<br></h3>
 </p>
 
+## Screenshots
+![](tesla_range_calculator.PNG)
+
 *Need to compile before running and npm install to install the dependencies
 *(IT training course practice) Rebuild and implement part functions from https://toddmotto.com/angular-tesla-range-calculator/
 
@@ -40,4 +43,6 @@ npm run server
 Open the web browser to `http://localhost:8085/`
 
 * It takes some time for webpack to compile the project
+
+
 
