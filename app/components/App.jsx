@@ -70,10 +70,8 @@ class App extends React.Component {
             (range.mph === speedRange[speedIndex]) && (new_models[i].miles = range.miles);
           }
         }
-
       }
     }
-
     // async.map(new_models,(model,setRange) =>{
     //   fetch(`./app/assets/json/model_${model.name}.json`).then((response) => {
     //         if (response.ok) {
@@ -118,7 +116,6 @@ class App extends React.Component {
         //const results=this.getMileRange();
         // this.setState({models: results}); 
       }
-
     );
     //this.getMileRange(); 
   }
@@ -134,6 +131,7 @@ class App extends React.Component {
       }
     );
   }
+
   onTempUp() {
     const {
       tempIndex
@@ -159,6 +157,7 @@ class App extends React.Component {
       }
     );
   }
+  
   onFanChange() {
     const {
       fanActive
