@@ -119,6 +119,20 @@ header {
       transform: rotate(360deg);
     }
   }
+  
+.left-wheel-19 {
+    position: absolute;
+    height: 6em;
+    width: 6em;
+    left: 10.5%;
+    bottom: 0%;
+    background: url(../../assets/images/wheel-19.png) no-repeat center center;
+    background-size: contain;
+    -webkit-animation: spin 1s linear 0s infinite reverse;
+    animation: spin 1s linear 0s infinite reverse;
+
+  }
+  
 .left-wheel-21 {
     position: absolute;
     height: 6em;
