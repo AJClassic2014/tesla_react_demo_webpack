@@ -1,13 +1,13 @@
 
 <p align="center">
-    <h3 align="center">Tesla Range Calculator Single Page<br></h3>
+    <h3 align="center">Electric Car Range Calculator Single Page<br></h3>
 </p>
 
 ## Screenshots
-![](tesla_range_calculator.PNG)
+![](electric_car_range_calculator.png)
 
 *Need to compile before running and npm install to install the dependencies
-*(IT training course practice) Rebuild and implement part functions from https://toddmotto.com/angular-tesla-range-calculator/
+*Rebuild and implement part functions from https://toddmotto.com/angular-tesla-range-calculator/
 
 ### What were using
 
